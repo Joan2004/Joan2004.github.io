@@ -3,12 +3,6 @@
 ## Técnico en sistemas microinformáticos
 ### Perfil personal
 Soy estudiante del segundo año Sistemas microinformáticos y redes (SMX) orientado a seguir estudiando por la rama de ciberseguridad. Me motiva mucho desarrollar mis habilidades y crecer profesionalmente. Tengo confianza en mi capacidad para resolver problemas  y  afrontar adversidades. 
-### Contacto
-·Dirección: Calle independència, 233 Badalona,Cataluña, España
-
-·E-mail: joanramondiaz@hotmail.es
-
-·Tél: 669141363
 
 ### Formación e idiomas
 ·CFGM Sistemas microinformáticos y redes en iFP 
